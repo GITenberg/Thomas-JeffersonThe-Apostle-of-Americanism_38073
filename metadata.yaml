@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39233'
     url: http://www.gutenberg.org/2009/agents/39233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38073#Thomas-JeffersonThe-Apostle-of-Americanism
 gutenberg_issued: '2011-11-21'
 gutenberg_type: Text
 identifiers:
